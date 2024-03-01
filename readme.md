@@ -34,3 +34,7 @@ En la actualidad la gestión de esta información se lleva cabo del siguiente mo
 		+ “alta” (retraso más de 6 días).
 
 * Puntos 2 y 3, realizados en el [script sql](./videoclub.sql).
+
+---
+**Ezequiel Mettler**
+| Data Analyst | [LinkedIn](https://www.linkedin.com/in/ezequiel-mettler/) | [Portfolio Web](https://sites.google.com/view/ezemettler) | Contacto: [ehmettler@gmail.com](mailto:ehmettler@gmail.com)
