@@ -33,7 +33,7 @@ En la actualidad la gestión de esta información se lleva cabo del siguiente mo
 		+ “media” (retraso entre 3 y 6 días),
 		+ “alta” (retraso más de 6 días).
 
-* Puntos 2 y 3, realizados en el [script sql](./videoclub.sql).
+* Puntos 2 y 3, realizados en el [script sql](./scripts/videoclub.sql).
 
 ---
 **Ezequiel Mettler**
