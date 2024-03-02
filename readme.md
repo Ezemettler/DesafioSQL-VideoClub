@@ -19,7 +19,7 @@ En la actualidad la gestión de esta información se lleva cabo del siguiente mo
 
 ### Se requiere:
 
-1. Desarrollar el diagrama entidad-relación correspondiente a la especificación de requisitos.
+1. Desarrollar el diagrama entidad-relación correspondiente a la especificación de requisitos (Clic en la imagen para agrandar).
 ![image](./images/diagrama-ER.jpg)
 2. Señalar los atributos que son clave primaria y clave foránea, especificando si aceptan nulos.
 3. Escribir consultas en lenguaje SQL o en su defecto expresiones regulares para mostrar:
